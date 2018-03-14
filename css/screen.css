@@ -52,14 +52,8 @@ html {
     /*font-family: "Helvetica Neue", Helvetica, arial, sans-serif; */
     font-family: "Droid Serif", georgia, serif;
     color: #5C6366;
-    padding: 48px 24px 24px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-smoothing: grayscale;
-}
-
-body {
-    max-width: 42em;
-    margin: 0 auto;
 }
 
 /*
