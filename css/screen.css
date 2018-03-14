@@ -198,6 +198,14 @@ a:focus {
     color: #00E6A1;
 }
 
+/* compents : Authoor */
+
+.c-author {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 
 @media (min-width: 576px) {}
